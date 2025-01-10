@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router";
 import App from "./App";
 import JobList from "./pages/JobList";
+import Register from "./pages/Register";
 
 const routes = [
   {
